@@ -210,4 +210,7 @@ span{
         /* position:inherit; */
         margin-left:-50px; 
     }
+    .rowbg{
+        height:550px;
+    }
 }
