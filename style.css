@@ -406,7 +406,7 @@ iframe{
         /* font-size: 18px; */
         position: absolute;
         left: 30%;
-        top: 37%;
+        top: 39%;
         font-weight: bold;
         color: rgb(255, 255, 255);
     }
@@ -422,9 +422,9 @@ iframe{
     }
     #overimg{
         /* border: 2px solid violet; */
-        width: 105%;
+        width: 113%;
         height: 280px;
-        margin-top:85%;
+        margin-top:93%;
         /* position:inherit; */
         margin-left:-50px; 
         /* display: block; */
